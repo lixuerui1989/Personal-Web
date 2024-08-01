@@ -149,9 +149,10 @@ a:hover {
 }
 
 #profile {
-  width: 200px;
-  height: 200px;
+  height:120;
+  width:120;
   border-radius: 50%;
+
 }
 
 /* .typing {
